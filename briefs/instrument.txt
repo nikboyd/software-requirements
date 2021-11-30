@@ -1,0 +1,5 @@
+Instruments measure activities, mainly through counters or averaged rates (typically over time), or reported events.
+Within a software solution, instruments will report their data points through some kind of telemetry,
+which may include event logging, or a regular report with a "heart beat".
+Downstream systems can then analyze the data provided for patterns and produce alerts and alarms, for example
+when some critical threshold is crossed.

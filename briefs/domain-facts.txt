@@ -1,0 +1,52 @@
+Domain named: software requirements.
+
+stakeholder holds: business interests, quality concerns.
+
+improvement := feature improves: activities for: business.
+governor governs: business.
+governor crafts: vision.
+governor articulates: values.
+governor describes: mission for: requestors, expectors.
+
+requestor requests: improvements in: activity.
+requestor oversees: activities for: business.
+requestor describes: improvements for: expectors.
+
+expector expects: improvements in: activity for: business.
+expector performs: activities for: business.
+expector uses: features of: solution.
+expector triggers: actions on: components through: dialogs.
+expector views: values from: components through: dialogs.
+expector describes: features for: developers.
+
+developer designs: components, dialogs, interfaces.
+developer builds: components, dialogs, interfaces.
+developer tests: components, dialogs, interfaces.
+developer describes: estimates for: expectors.
+
+vision describes: outcomes of: business.
+mission aligns: activities with: vision.
+mission describes: effects of: business.
+value measures: quality of: concern for: business.
+value measuring: quantity of: money.
+
+activity produces: value for: business.
+activity conserves: value for: business.
+
+instrument measures: activity, quality.
+
+feature solves: problems for: business.
+feature resolves: problems for: business.
+
+solution exhibits: features.
+solution has: components.
+component surfaces: dialogs.
+component performs: actions.
+dialog reveals: features through: interfaces.
+
+interface reveals: model informations.
+interface exposes: component operations.
+
+business creates: value for: beneficiaries.
+
+

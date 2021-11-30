@@ -1,0 +1,9 @@
+Interfaces have three primary kinds:
+
+* APIs = application programming interfaces
+* UXs or UIs = user experience interfaces
+* reports
+
+Both APIs and UXs generally reveal information and allow it to be operated upon. 
+Reports simply reveal information, typically in some predefined and structured manner.
+APIs typically manifest in solution designs at various levels of the code: functions, libraries, components, etc.
