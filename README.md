@@ -51,7 +51,7 @@ Descriptions of the essential model elements can be found in the linked pages th
 [value]: topics/value.md
 [vision]: topics/vision.md
 
-[syntopica-tool]: https://gitlab.com/nikboyd/syntopica/-/tree/master#syntopica
+[syntopica-tool]: https://github.com/nikboyd/syntopica/#syntopica
 [model]: https://educery.dev/papers/software-requirements/#conceptual-model
 [inventory]: domain-inventory.md#software-requirements-domain-inventory
 [notation]: https://educery.dev/papers/software-requirements/#model-key
